@@ -35,7 +35,7 @@ palette = 14=89DDFF
 palette = 15=FFFFFF
 ```
 
-if you dont have a ghostty config set up here's how [ghostty configuration](https://ghostty.org/docs/config)
+If you dont have a ghostty config set up here's how [Ghostty configuration](https://ghostty.org/docs/config)
 
 ### License
 
